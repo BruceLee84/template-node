@@ -1,0 +1,144 @@
+.pg{
+    text-align: center;
+ 
+
+}
+
+.full{
+    background-color: grey;
+}
+
+
+.box{
+    width: 900px;
+    margin: auto;
+    background-color: bisque;
+
+}
+
+.side{
+    float: right;
+    font-size: 12px;
+}
+
+.heading{
+    padding: 30px;
+    text-align: center;
+}
+
+.hrline1{
+   border-color: black;
+   height: 2px ;
+   
+
+}
+
+.hrline2{
+    border-color: black;
+}
+
+.hrline3{
+    border-color: black;
+    width: 870px;
+}
+
+
+.line{
+    padding: -300px;
+    padding-left: 20px;
+    padding-right: 30px;
+    text-align: justify;
+
+}
+
+b{
+    font-size: 20px;
+}
+
+.sum1{
+    padding-left: 20px;
+    width: 900px;
+    display: flex;
+}
+
+.lin2{
+    width: 400px;
+    text-align: justify;
+}
+
+.lin3{
+   padding-top: 0px;
+   padding-left: 50px;
+   width: 400px;
+   text-align: start;
+   text-align: justify;
+    
+}
+
+.sum2{
+    padding-left: 20px;
+    width: 900px;
+    display: flex;
+}
+
+.lin4{
+    width: 400px;
+    text-align: justify;
+}
+
+.lin5{
+   padding-top: 0px;
+   padding-left: 50px;
+   width: 400px;
+   text-align: start;
+   text-align: justify;
+    
+}
+
+.page{
+    text-align: right;
+    padding-top: -20px;
+    padding-right: 20px;
+
+}
+
+
+.sum3{
+    padding-left: 20px;
+    width: 900px;
+    display: flex;   
+}
+
+.lin6{
+    width: 400px;
+    text-align: justify;
+}
+
+.lin7{
+   padding-top: 0px;
+   padding-left: 50px;
+   width: 400px;
+   text-align: start;
+   text-align: justify;
+    
+}
+
+.sum4{
+    padding-left: 20px;
+    width: 900px;
+    display: flex;   
+}
+
+.lin8{
+    width: 400px;
+    text-align: justify;
+}
+
+.lin9{
+   padding-top: 0px;
+   padding-left: 50px;
+   width: 400px;
+   text-align: start;
+   text-align: justify;
+    
+}

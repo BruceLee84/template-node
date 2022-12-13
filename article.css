@@ -1,0 +1,21 @@
+.hd{
+    text-align: center;
+}
+
+.container{
+    background-color: sandybrown;
+}
+
+.des{
+    text-align: justify;
+}
+
+.bl{
+    border: 1px solid;
+    box-shadow: 8px 10px #888888;
+}
+
+.page{
+   text-align: right;
+   padding-top: 0 20px;
+}
